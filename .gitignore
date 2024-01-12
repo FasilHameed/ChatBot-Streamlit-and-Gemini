@@ -121,7 +121,6 @@ celerybeat.pid
 
 # Environments
 gemini/
-.env
 .venv
 env/
 venv/
